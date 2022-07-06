@@ -1,0 +1,13 @@
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.exe
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.deps.json
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.runtimeconfig.json
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.runtimeconfig.dev.json
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.dll
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\bin\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.pdb
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.csprojAssemblyReference.cache
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.AssemblyInfoInputs.cache
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.AssemblyInfo.cs
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.csproj.CoreCompileInputs.cache
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.dll
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.pdb
+C:\Users\parri\source\repos\AvailityInsuranceEnrollee\obj\Debug\netcoreapp3.1\AvailityInsuranceEnrollee.genruntimeconfig.cache
